@@ -1,0 +1,19 @@
+body{
+    background-color: #efefb3;
+    background-image: url("../imgs/white-cloud-blue-sky-sea_74190-4488.avif");
+    background-size: cover;
+}
+h1{
+
+}
+p{
+    color: #d92929;
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    font-weight: bold;/* 100 200 300 400(normal) 500 600 700(bold) 800*/
+    text-decoration: line-through;
+    text-transform: uppercase;
+    background-color: none;
+}
