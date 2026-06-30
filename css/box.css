@@ -2,7 +2,7 @@ img{
     max-width: 100%;
 }
 div{
-    width: 300px;
+    width: calc(25% - 30px);
     /* height: 500px; */
     float: left;
     margin: 15px;
